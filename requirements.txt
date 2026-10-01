@@ -1,0 +1,4 @@
+pandas>=2.0
+requests>=2.31
+nltk>=3.8
+spacy>=3.7
