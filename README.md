@@ -78,7 +78,6 @@ trabalho-2-pln-vagas-tecnologia/
 ├── dados/
 │   ├── README.md
 │   ├── metadata_dataset.json
-│   ├── dados_vagas.zip
 │   ├── raw/
 │   └── processed/
 │
@@ -176,9 +175,8 @@ dados/processed/
 
 A entrega utiliza dois níveis de dados:
 
-- **`dados/dados_vagas.zip`**: pacote com o dataset original da execução entregue;
-- **`dados/raw/`**: registros coletados da API em JSON Lines (também disponíveis dentro do ZIP);
-- **`dados/processed/`**: base deduplicada e pré-processada em CSV UTF-8 (também disponível dentro do ZIP).
+- **`dados/raw/`**: registros coletados da API em JSON Lines;
+- **`dados/processed/`**: base deduplicada e pré-processada em CSV UTF-8.
 
 A coleta documentada no relatório gerou **600 registros brutos e 568 vagas únicas**.
 
