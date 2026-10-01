@@ -1,0 +1,23 @@
+{
+  "fonte": "Adzuna Developer API",
+  "pais": "br",
+  "data_coleta_documentada": "2026-09-15",
+  "periodo_publicacao_documentado": {
+    "inicio": "2026-09-02",
+    "fim": "2026-09-14"
+  },
+  "consultas": [
+    "desenvolvedor",
+    "analista de dados",
+    "cientista de dados",
+    "devops",
+    "segurança da informação",
+    "suporte de tecnologia"
+  ],
+  "paginas_por_consulta": 2,
+  "resultados_por_pagina": 50,
+  "registros_brutos_documentados": 600,
+  "vagas_unicas_documentadas": 568,
+  "duplicidades_removidas_documentadas": 32,
+  "descricoes_vazias_documentadas": 0
+}
